@@ -45,5 +45,7 @@ end
 gem 'devise', '~> 3.5', '>= 3.5.6'
  gem 'debugger', group: [:development, :test]
  gem 'rails_12factor', group: :production
+ gem 'puma'
  ruby "1.9.3"
+
 
